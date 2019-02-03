@@ -1,0 +1,7 @@
+Ouvrir le self.js avec un éditeur en Java type VSCode. Vous pouvez le run sur tel mais il faut demandé à Friture comment faire.
+Self dispo pour les membres de la LDD. 
+Veuillez mettre votre token, id, et prefix puis enregistrer le fichier.
+Si ya des erreurs hophophop on signal à tmmeh.
++ il faut Discord.js (il est intégré dans le dossier de toute façon donc osef).
+Vous pouvez héberger le code du self sur un site comme Glitch.com pour que le self sois allumer dès que vous êtes sur le site.
+Des erreurs peuvent arrivées souvent, pour relancer le self en cas d'erreur c'est le bouton vert "actualiser" ou F5 sur VSCode.
